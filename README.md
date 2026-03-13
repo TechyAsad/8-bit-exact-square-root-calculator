@@ -53,5 +53,3 @@ Working on this project helped me:
 
 ##  Reference
 Parhami, B. *Computer Arithmetic: Algorithms and Hardware Designs*, 2nd Edition, Oxford University Press — especially **Chapter 21 Square-Rooting Methods**, which explains a variety of square-root algorithms and hardware approaches relevant to implementations like this one.
-
-Parhami, B. *Computer Arithmetic: Algorithms and Hardware Designs*, 2nd Edition, Oxford University Press — especially **Chapter 21 Square-Rooting Methods**, which explains a variety of square-root algorithms and hardware approaches relevant to implementations like this one.
